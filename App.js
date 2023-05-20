@@ -80,13 +80,13 @@ const App: () => Node = () => {
             Edit <Text style={styles.highlight}>App.js</Text> to change this
             screen and then come back to see your edits.
           </Section>
-          <View style={{paddingHorizontal: 24}}>
+          <View style={{paddingHorizontal: 24, borderColor: 'black', borderWidth: 2, margin: 2, borderRadius: 2}}>
             <TextInput multiline>
               <Text style={{"fontWeight":"bold","color":"blue","backgroundColor":"white"}}>David Tabaka</Text>
               <Text> The quick brown fox jumped over the lazy dog</Text>
             </TextInput>
           </View>
-          <View style={{paddingHorizontal: 24}}>
+          <View style={{paddingHorizontal: 24, borderColor: 'black', borderWidth: 2, margin: 2, borderRadius: 2}}>
             <TextInput multiline>
               <Text style={{"fontWeight":"bold","color":"blue","backgroundColor":"white"}}>David Tabaka</Text>
               <Text> The quick brown fox jumped over the lazy dog and the</Text>
