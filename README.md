@@ -4,11 +4,9 @@ This example is based on the default React Native project.
 
 The project was initialized as follows:
 
-npx react-native init StyledTextInTextInput --version 0.70
+`npx react-native init StyledTextInTextInput --version 0.70`
 
-Once the project was created, a few small changes were made.
-
-There are now two `<TextInput>` components added to demonstrate a bug.
+Once the project was created, a few small changes were made. Two `<TextInput>` components were added to demonstrate a bug.
 
 The new code is here:
 
