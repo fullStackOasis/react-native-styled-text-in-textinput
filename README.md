@@ -34,3 +34,8 @@ Tap your finger at the very end of the first `TextInput`. Nothing special happen
 Next, tap your finger at the very end of the **second** `TextInput`. You will see the style of the entire content of the `TextInput` change.
 
 This is a bug. The expected behavior is that the style of the content should not change.
+
+
+
+https://github.com/fullStackOasis/react-native-styled-text-in-textinput/assets/59945095/46c999bc-b97f-4972-9d51-6c9f4dc31bc3
+
